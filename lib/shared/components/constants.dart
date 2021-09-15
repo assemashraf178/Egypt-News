@@ -1,0 +1,3 @@
+bool? isDark;
+
+String token = '';
